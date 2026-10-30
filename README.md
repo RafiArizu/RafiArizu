@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Frontend+%26+Clean+UI%2FUX+Developer" alt="Description" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" />
 
 <!-- <p align="center">
   <a href="https://rafi-arizu-portofolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-436E99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111C32" alt="Portfolio" /></a>
