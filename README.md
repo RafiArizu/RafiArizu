@@ -96,10 +96,10 @@ status:
 
 ### `> github_stats`
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafiArizu&show_icons=true&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&icon_color=FF7A45&border_color=24334A&hide_border=false" alt="Rafi Arizu Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiArizu&layout=compact&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&border_color=24334A&hide_border=false" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
