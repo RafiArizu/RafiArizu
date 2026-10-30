@@ -2,7 +2,7 @@
 
 <img src="./shibuya_kanon.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/RafiArizu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=RAFI+ARIZU;RAFI+ARIZU" alt="Rafi Arizu" />
