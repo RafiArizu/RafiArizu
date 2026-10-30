@@ -2,13 +2,20 @@
 
 <img src="./shibuya_kanon.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
 
-# RAFI ARIZU
+<br/>
 
-**Full-Stack Developer focused on Frontend & Clean UI/UX Design**  
-Informatics Student at Universitas Buana Perjuangan Karawang  
-Karawang, West Java, Indonesia
+<a href="https://github.com/RafiArizu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=RAFI+ARIZU;rafi_arizu" alt="Rafi Arizu" />
+</a>
 
-[Portfolio](https://rafi-arizu-portofolio.vercel.app/) • [GitHub](https://github.com/RafiArizu)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Frontend+%26+Clean+UI%2FUX+Developer;Informatics+Student+%40+UBP+Karawang;Karawang%2C+West+Java%2C+Indonesia" alt="Description" />
+
+<p align="center">
+  <a href="https://rafi-arizu-portofolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-436E99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111C32" alt="Portfolio" /></a>
+  <a href="https://github.com/RafiArizu"><img src="https://img.shields.io/badge/GITHUB-RAFIARIZU-FF7A45?style=for-the-badge&logo=github&logoColor=white&labelColor=111C32" alt="GitHub" /></a>
+</p>
 
 </div>
 
@@ -19,65 +26,82 @@ Karawang, West Java, Indonesia
 ```yaml
 name: Rafi Arizu
 role: Full-Stack Developer
-focus: Frontend Development & Clean UI/UX Design
-education: Informatics Student, Universitas Buana Perjuangan Karawang
+focus: Frontend & Clean UI/UX Design
+campus: Universitas Buana Perjuangan Karawang
 location: Karawang, West Java, Indonesia
-portfolio: https://rafi-arizu-portofolio.vercel.app/
-contact: rafiariz95@gmail.com
 
-current_focus:
-  - Clean, responsive, accessible UI/UX architecture
-  - Frontend development with Ionic and modern web standards
-  - REST API consumption and backend helper integrations
+status:
+  frontend: ACTIVE
+  ui_ux: ACTIVE
+  api_integration: ACTIVE
+  coffee: ALWAYS_ON
 ```
-
----
-
-### `> about_me`
-
-Full-Stack Developer focused on building clean, intuitive, practical web applications. Core strength in frontend development and user experience design, combined with reliable backend support in team environments.
 
 ---
 
 ### `> tech_stack`
 
-**Primary Technologies:**  
-`Laravel` • `Ionic` • `TypeScript` • `JavaScript`
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-```text
-Frontend     :: HTML5, CSS3, JavaScript, TypeScript, Ionic, Vue.js, Tailwind CSS
-Backend      :: PHP, Laravel, REST API, JWT
-Database     :: MySQL
-Design/Tools :: Figma, Git, GitHub, VS Code
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,laravel&perline=7" alt="Tech Stack Row 1" /><br/>
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode,figma&perline=7" alt="Tech Stack Row 2" />
+  </a>
+</p>
 
 ---
 
 ### `> featured_projects`
 
-#### 1. Kuesify
-> Interactive educational platform with AI-driven quiz generation and real-time assessments.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- **Role:** UI/UX Design, Frontend Development & Backend Helper
-- **Scope:** Clean assessment interface, responsive dashboard layout, quiz workflow integration, backend API support.
-- **Stack:** `Laravel` • `Vue.js` • `TypeScript` • `Tailwind CSS` • `MySQL`
-- **Repository:** [github.com/RafiArizu/Kuesify](https://github.com/RafiArizu/Kuesify)
+#### 🧩 Kuesify
+*Interactive AI Quiz Platform*
 
-#### 2. ZETA E-Procurement
-> Enterprise procurement platform managing vendor verification, tender bidding, and digital contracts.
+- **Role:** UI/UX & Frontend (API Helper)
+- **Stack:** `Laravel` `Vue` `TS` `Tailwind`
+- **Link:** [Repo Kuesify](https://github.com/RafiArizu/Kuesify)
 
-- **Role:** UI/UX Design, Frontend Development (Ionic) & Backend Helper
-- **Scope:** Structured procurement workflows, Ionic client interface, data flow integration with backend services.
-- **Stack:** `Laravel` • `Ionic` • `TypeScript` • `PHP` • `MySQL` • `REST API`
-- **Repository:** [github.com/RafiArizu/e-tender](https://github.com/RafiArizu/e-tender)
+</td>
+<td width="33%" valign="top">
 
-#### 3. KeuanganKu
-> Student financial tracking and parent monitoring system with real-time balance analytics.
+#### 📑 ZETA E-Procurement
+*Tender & Vendor Management*
 
-- **Role:** UI/UX Design, Frontend Development & Backend Helper
-- **Scope:** Accessible analytics dashboards, responsive visual components, parent-student data flow support.
-- **Stack:** `PHP` • `Tailwind CSS` • `MySQL` • `Chart.js`
-- **Repository:** [github.com/RafiArizu/KeunganKu](https://github.com/RafiArizu/KeunganKu)
+- **Role:** UI/UX & Frontend Ionic (API Helper)
+- **Stack:** `Laravel` `Ionic` `TS` `MySQL`
+- **Link:** [Repo e-tender](https://github.com/RafiArizu/e-tender)
+
+</td>
+<td width="33%" valign="top">
+
+#### 💰 KeuanganKu
+*Student Finance & Monitoring*
+
+- **Role:** UI/UX & Dashboard UI (Helper)
+- **Stack:** `PHP` `Tailwind` `MySQL` `Chart.js`
+- **Link:** [Repo KeuanganKu](https://github.com/RafiArizu/KeunganKu)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> github_stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafiArizu&show_icons=true&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&icon_color=FF7A45&border_color=24334A&hide_border=false" alt="Rafi Arizu Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiArizu&layout=compact&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&border_color=24334A&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
@@ -87,4 +111,4 @@ Design/Tools :: Figma, Git, GitHub, VS Code
 - GitHub: https://github.com/RafiArizu
 - Email: rafiariz95@gmail.com
 
-<!-- ponytail: markdown native tanpa external svg widget; tambah dynamic svg cards jika butuh realtime metric -->
+<!-- ponytail: asset badge eksternal via cdn; ganti static svg lokal jika butuh zero-dependency -->
