@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=RAFI+ARIZU;RAFI+ARIZU" alt="Rafi Arizu" />
 </a>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" />
 
 <!-- <p align="center">
