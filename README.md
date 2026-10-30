@@ -12,10 +12,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Frontend+%26+Clean+UI%2FUX+Developer;Informatics+Student+%40+UBP+Karawang;Karawang%2C+West+Java%2C+Indonesia" alt="Description" />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://rafi-arizu-portofolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-436E99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111C32" alt="Portfolio" /></a>
   <a href="https://github.com/RafiArizu"><img src="https://img.shields.io/badge/GITHUB-RAFIARIZU-FF7A45?style=for-the-badge&logo=github&logoColor=white&labelColor=111C32" alt="GitHub" /></a>
-</p>
+</p> -->
 
 </div>
 
