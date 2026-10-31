@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./shibuya_kanon.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
+<img src="./eva_01.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
 
 
 
 <a href="https://github.com/RafiArizu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=RAFI+ARIZU;RAFI+ARIZU" alt="Rafi Arizu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=Hola,+I'm+Rafi+Arizu;Frontend+Developer+From+Indonesia;PHP+TypeScript+JavaScript;" alt="Rafi Arizu" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" /> -->
 
 <!-- <p align="center">
   <a href="https://rafi-arizu-portofolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-436E99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111C32" alt="Portfolio" /></a>
@@ -19,21 +19,13 @@
 
 ---
 
-### `> system_profile`
+### `> About Me`
 
-```yaml
-name: Rafi Arizu
-role: Full-Stack Developer
-focus: Frontend & Clean UI/UX Design
-campus: Universitas Buana Perjuangan Karawang
-location: Karawang, West Java, Indonesia
 
-status:
-  frontend: ACTIVE
-  ui_ux: ACTIVE
-  api_integration: ACTIVE
-  coffee: ALWAYS_ON
-```
+🎯 Full-Stack Developer
+📌 Building clean web apps with smooth UI/UX
+🏢 Universitas Buana Perjuangan Karawang
+💻 Tech Stack: PHP, TypeScript, JavaScript
 
 ---
 
@@ -94,7 +86,7 @@ status:
 
 ---
 
-### `> github_stats`
+<!-- ### `> github_stats` -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafiArizu&show_icons=true&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&icon_color=FF7A45&border_color=24334A&hide_border=false" alt="Rafi Arizu Stats" />
