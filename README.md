@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./eva_01.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
+<img src="./assets/eva_01.gifeva_01.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
 
 
 
@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,laravel&perline=7" alt="Tech Stack Row 1" /><br/>
-    <img src="https://skillicons.dev/icons?i=php,alpinejs,mysql,git,github,vscode,figma=7" alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=php,alpinejs,mysql,git,github,vscode,figma&perline=7" alt="Tech Stack Row2" >
   </a>
 </p>
 
