@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/RafiArizu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=8EAEE0&center=true&vCenter=true&width=460&height=48&lines=Hola%2C+I%27m+Rafi+Arizu;Full-Stack+Developer;PHP+%7C+TypeScript+%7C+JavaScript" alt="Rafi Arizu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&width=460&height=48&lines=Hola%2C+I%27m+Rafi+Arizu;Frontend+Developer+From+Indonesia;PHP+%7C+TypeScript+%7C+JavaScript" alt="Rafi Arizu" />
 </a>
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" /> -->
@@ -19,30 +19,23 @@
 
 ---
 
-### About Me
+### 🧬 About Me
 
 <ul>
   <li>🎯 Frontend Developer</li>
   <li>📌 Building clean web apps with smooth UI/UX</li>
-  <li>🏢 Universitas Buana Perjuangan Karawang</li>
-  <li>💻 Tech Stack: PHP, TypeScript, JavaScript</li>
+  <li>🏢 Part of <b>Universitas Buana Perjuangan Karawang</b></li>
+  <li>💻 Main stack: <b>PHP</b>, <b>TypeScript</b>, <b>JavaScript</b></li>
 </ul>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### 👾 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,laravel&perline=7" alt="Tech Stack Row 1" /><br/>
-    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode,figma,stackoverflow&perline=7" alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=php,alpinejs,mysql,git,github,vscode,figma=7" alt="Tech Stack Row 2" />
   </a>
 </p>
 
