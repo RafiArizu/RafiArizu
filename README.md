@@ -42,7 +42,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,laravel&perline=7" alt="Tech Stack Row 1" /><br/>
-    <img src="https://skillicons.dev/icons?i=,php,mysql,git,github,vscode,figma,stackoverflow&perline=7" alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode,figma,stackoverflow&perline=7" alt="Tech Stack Row 2" />
   </a>
 </p>
 
