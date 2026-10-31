@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/RafiArizu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=Hola,+I'm+Rafi+Arizu;FullStack+Developer+From+Indonesia;PHP+•+TypeScript+•+JavaScript;" alt="Rafi Arizu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=8EAEE0&center=true&vCenter=true&width=460&height=48&lines=Hola%2C+I%27m+Rafi+Arizu;Full-Stack+Developer;PHP+%7C+TypeScript+%7C+JavaScript" alt="Rafi Arizu" />
 </a>
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" /> -->
@@ -19,10 +19,10 @@
 
 ---
 
-### `> About Me`
+### About Me
 
 <ul>
-  <li>🎯 Full-Stack Developer</li>
+  <li>🎯 Frontend Developer</li>
   <li>📌 Building clean web apps with smooth UI/UX</li>
   <li>🏢 Universitas Buana Perjuangan Karawang</li>
   <li>💻 Tech Stack: PHP, TypeScript, JavaScript</li>
@@ -30,7 +30,7 @@
 
 ---
 
-### `> tech_stack`
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
