@@ -37,15 +37,14 @@
   <a href="https://github.com/RafiArizu">
     <img src="https://img.shields.io/badge/GITHUB-RAFIARIZU-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=111C32" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/arizuu">
-    <img src="https://img.shields.io/badge/INSTAGRAM-ARIZUU-8EAEE0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111C32" alt="Instagram" />
+  <a href="https://instagram.com/reinzfy._">
+    <img src="https://img.shields.io/badge/INSTAGRAM-reinzfy._-8EAEE0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111C32" alt="Instagram" />
   </a>
-  <!-- ponytail: shields.io cdn badge; ganti plain markdown text jika ingin nol gambar -->
   <a href="mailto:rafiariz95@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-RAFIARIZ95%40GMAIL.COM-E4405F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111C32" alt="Gmail" />
   </a>
 </p>
-<!-- ponytail: badge shields.io statis; tambah badge linkedIn/instagram jika akun siap E4405F -->
+
 
 ---
 
