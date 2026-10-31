@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/eva_01.gifeva_01.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
+<img src="assets/eva_01.gif" alt="Kanon Shibuya Banner" width="100%" style="max-width: 680px; border-radius: 8px;" />
 
 
 
