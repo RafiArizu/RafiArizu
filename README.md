@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/RafiArizu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF7A45&center=true&vCenter=true&width=460&height=48&lines=Hola,+I'm+Rafi+Arizu;Frontend+Developer+From+Indonesia;PHP+TypeScript+JavaScript;" alt="Rafi Arizu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=bf2217&center=true&vCenter=true&width=460&height=48&lines=Hola,+I'm+Rafi+Arizu;FullStack+Developer+From+Indonesia;PHP+•+TypeScript+•+JavaScript;" alt="Rafi Arizu" />
 </a>
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=436E99&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Description" /> -->
@@ -21,11 +21,12 @@
 
 ### `> About Me`
 
-
-🎯 Full-Stack Developer
-📌 Building clean web apps with smooth UI/UX
-🏢 Universitas Buana Perjuangan Karawang
-💻 Tech Stack: PHP, TypeScript, JavaScript
+<ul>
+  <li>🎯 Full-Stack Developer</li>
+  <li>📌 Building clean web apps with smooth UI/UX</li>
+  <li>🏢 Universitas Buana Perjuangan Karawang</li>
+  <li>💻 Tech Stack: PHP, TypeScript, JavaScript</li>
+</ul>
 
 ---
 
@@ -41,7 +42,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,laravel&perline=7" alt="Tech Stack Row 1" /><br/>
-    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode,figma&perline=7" alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=ionic,php,mysql,git,github,vscode,figma&perline=7" alt="Tech Stack Row 2" />
   </a>
 </p>
 
