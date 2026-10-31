@@ -104,13 +104,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RafiArizu&show_icons=true&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&icon_color=FF7A45&border_color=24334A&hide_border=false" alt="Rafi Arizu Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiArizu&layout=compact&bg_color=111C32&title_color=FF7A45&text_color=F4F7FB&border_color=24334A&hide_border=false" alt="Top Languages" />
 </p> -->
-
----
-
-### `> connect`
-
-- Portfolio: https://rafi-arizu-portofolio.vercel.app/
-- GitHub: https://github.com/RafiArizu
-- Email: rafiariz95@gmail.com
-
-<!-- ponytail: asset badge eksternal via cdn; ganti static svg lokal jika butuh zero-dependency -->
